@@ -1,5 +1,4 @@
-# “Given this sound shape, which swara am I hearing?”
-An Automatic AI Swara Detection system
+# “Given this sound shape, which swara am I hearing?” An Automatic AI Swara Detection system
 
 Overview
 
