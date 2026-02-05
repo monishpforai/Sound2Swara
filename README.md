@@ -1,4 +1,6 @@
-# Sound2Swara
+# “Given this sound shape, which swara am I hearing?”
+#       An Automatic AI Swara Detection system
+
 Overview
 
 Carnatic music defines melody as smooth movements between pitches rather than distinct notes. In Carnatic music, a single "swara" is defined with movements such as oscillations, slides, and pitch curve called "gamakas." Conventional music analysis techniques using pitches are found to be insufficient.
